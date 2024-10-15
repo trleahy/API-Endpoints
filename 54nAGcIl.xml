@@ -1,299 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <atom:link href="https://feeds.simplecast.com/54nAGcIl" rel="self" title="MP3 Audio" type="application/atom+xml"/>
-    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
-    <generator>https://simplecast.com</generator>
-    <title>The Daily</title>
-    <description>This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro and Sabrina Tavernise. Twenty minutes a day, five days a week, ready by 6 a.m.
-
-Listen to this podcast in New York Times Audio, our new iOS app for news subscribers. Download now at nytimes.com/audioapp</description>
-    <copyright>© 2020-2021 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service.</copyright>
+    <title>Sample News Feed</title>
     <language>en</language>
     <pubDate>Mon, 16 Sep 2024 09:45:00 +0000</pubDate>
     <lastBuildDate>Mon, 16 Sep 2024 09:45:31 +0000</lastBuildDate>
-    <image>
-      <link>https://www.nytimes.com/the-daily</link>
-      <title>The Daily</title>
-      <url>https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed</url>
-    </image>
-    <link>https://www.nytimes.com/the-daily</link>
-    <itunes:type>episodic</itunes:type>
-    <itunes:summary>This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro and Sabrina Tavernise. Twenty minutes a day, five days a week, ready by 6 a.m.
 
-Listen to this podcast in New York Times Audio, our new iOS app for news subscribers. Download now at nytimes.com/audioapp</itunes:summary>
-    <itunes:author>The New York Times</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed"/>
-    <itunes:new-feed-url>https://feeds.simplecast.com/54nAGcIl</itunes:new-feed-url>
-    <itunes:owner>
-      <itunes:name>The New York Times</itunes:name>
-      <itunes:email>thedaily@nytimes.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="News">
-      <itunes:category text="Daily News"/>
-    </itunes:category>
     <item>
       <guid isPermaLink="false">384cf0b9-5aaf-4f3e-b4d5-3a05fd8b5e7d</guid>
       <title>Three Undecided Voters, Two Swing States, One Big Decision</title>
-      <description><![CDATA[<p>From the moment Donald Trump and Kamala Harris walked off the debate stage, both their campaigns have argued about who won the showdown.</p><p>But the real question is what the debate meant to a small sliver of voters in a handful of swing states.</p><p>Campbell Robertson, a reporter on The Times’s National desk, and Stella Tan, a producer on “The Daily,” speak to three undecided voters about what they saw during the debate, and how much closer it brought them to a decision.</p><p>Guest: </p><ul><li>​​<a href="https://nytimes.com/by/campbell-robertson">Campbell Robertson</a>, a reporter for the National desk at The New York Times, who has been tracking undecided voters in Pennsylvania.</li><li><a href="https://www.nytimes.com/by/stella-tan">Stella Tan</a>, an audio producer for “The Daily,” who spoke to an undecided voter in Wisconsin.</li></ul><p>Background reading: </p><ul><li>Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But<a href="https://www.nytimes.com/2024/09/11/us/politics/undecided-voters-react-debate.html"> they wanted to hear more</a>.</li><li>“The Run-Up”:<a href="https://www.nytimes.com/2024/09/12/podcasts/debate-undecided-voters.html"> Here’s what undecided voters are thinking</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Mon, 16 Sep 2024 09:45:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/a7b03654-fe9d-4306-9a81-1c8997c9099a/nyt-podcast-thedaily-ytthumbnail-7.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>From the moment Donald Trump and Kamala Harris walked off the debate stage, both their campaigns have argued about who won the showdown.</p><p>But the real question is what the debate meant to a small sliver of voters in a handful of swing states.</p><p>Campbell Robertson, a reporter on The Times’s National desk, and Stella Tan, a producer on “The Daily,” speak to three undecided voters about what they saw during the debate, and how much closer it brought them to a decision.</p><p>Guest: </p><ul><li>​​<a href="https://nytimes.com/by/campbell-robertson">Campbell Robertson</a>, a reporter for the National desk at The New York Times, who has been tracking undecided voters in Pennsylvania.</li><li><a href="https://www.nytimes.com/by/stella-tan">Stella Tan</a>, an audio producer for “The Daily,” who spoke to an undecided voter in Wisconsin.</li></ul><p>Background reading: </p><ul><li>Voters said the vice president talked about a sweeping vision to fix the country’s most stubborn problems. But<a href="https://www.nytimes.com/2024/09/11/us/politics/undecided-voters-react-debate.html"> they wanted to hear more</a>.</li><li>“The Run-Up”:<a href="https://www.nytimes.com/2024/09/12/podcasts/debate-undecided-voters.html"> Here’s what undecided voters are thinking</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="30658335" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6dec2b01-b253-4cd3-9493-245620673dd6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=6dec2b01-b253-4cd3-9493-245620673dd6&amp;feed=54nAGcIl"/>
-      <itunes:title>Three Undecided Voters, Two Swing States, One Big Decision</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/7fe260aa-5fdb-4f76-9d37-e12791fa61e4/3000x3000/nyt-podcast-thedaily-8.jpg?aid=rss_feed"/>
-      <itunes:duration>00:31:56</itunes:duration>
-      <itunes:summary>From the moment Donald Trump and Kamala Harris walked off the debate stage, both their campaigns have argued about who won the showdown.
-
-But the real question is what the debate meant to a small sliver of voters in a handful of swing states.
-
-Campbell Robertson, a reporter on The Times’s National desk, and Stella Tan, a producer on “The Daily,” speak to three undecided voters about what they saw during the debate, and how much closer it brought them to a decision.
-
-Guest: 
-
-​​Campbell Robertson, a reporter for the National desk at The New York Times, who has been tracking undecided voters in Pennsylvania.
-Stella Tan, an audio producer for “The Daily,” who spoke to an undecided voter in Wisconsin.</itunes:summary>
-      <itunes:subtitle>From the moment Donald Trump and Kamala Harris walked off the debate stage, both their campaigns have argued about who won the showdown.
-
-But the real question is what the debate meant to a small sliver of voters in a handful of swing states.
-
-Campbell Robertson, a reporter on The Times’s National desk, and Stella Tan, a producer on “The Daily,” speak to three undecided voters about what they saw during the debate, and how much closer it brought them to a decision.
-
-Guest: 
-
-​​Campbell Robertson, a reporter for the National desk at The New York Times, who has been tracking undecided voters in Pennsylvania.
-Stella Tan, an audio producer for “The Daily,” who spoke to an undecided voter in Wisconsin.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">c073d06f-d12f-4fd3-9fc1-930ccd27f01c</guid>
       <title>The Sunday Read: ‘The For-Profit City That Might Come Crashing Down’</title>
-      <description><![CDATA[<p>If Próspera were a normal town, Jorge Colindres, a freshly cologned and shaven lawyer, would be considered its mayor. His title here is “technical secretary.” Looking out over a clearing in the trees in February, he pointed to the small office complex where he works collecting taxes and managing public finances for the city’s 2,000 or so physical residents and e-residents, many of whom have paid a fee for the option of living in Próspera, on the Honduran island of Roatán, or remotely incorporating a business there.</p><p>Nearby is a manufacturing plant that is slated to build modular houses along the coast. About a mile in the other direction are some of the city’s businesses: a Bitcoin cafe and education center, a genetics clinic, a scuba shop. A delivery service for food and medical supplies will deploy its drones from this rooftop.</p><p>Próspera was built in a semiautonomous jurisdiction known as a ZEDE (a Spanish acronym for Zone for Employment and Economic Development). It is a private, for-profit city, with its own government that courts foreign investors through low taxes and light regulation. Now, the Honduran government wants it gone.</p>
-]]></description>
       <pubDate>Sun, 15 Sep 2024 10:00:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/a4566f3c-b1b5-48c5-a617-56a1f1223cb0/the-daily-thumbnail.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>If Próspera were a normal town, Jorge Colindres, a freshly cologned and shaven lawyer, would be considered its mayor. His title here is “technical secretary.” Looking out over a clearing in the trees in February, he pointed to the small office complex where he works collecting taxes and managing public finances for the city’s 2,000 or so physical residents and e-residents, many of whom have paid a fee for the option of living in Próspera, on the Honduran island of Roatán, or remotely incorporating a business there.</p><p>Nearby is a manufacturing plant that is slated to build modular houses along the coast. About a mile in the other direction are some of the city’s businesses: a Bitcoin cafe and education center, a genetics clinic, a scuba shop. A delivery service for food and medical supplies will deploy its drones from this rooftop.</p><p>Próspera was built in a semiautonomous jurisdiction known as a ZEDE (a Spanish acronym for Zone for Employment and Economic Development). It is a private, for-profit city, with its own government that courts foreign investors through low taxes and light regulation. Now, the Honduran government wants it gone.</p>
-]]></content:encoded>
-      <enclosure length="38971933" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2d8cc0f7-03ea-4162-a05f-e77912d308c8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=2d8cc0f7-03ea-4162-a05f-e77912d308c8&amp;feed=54nAGcIl"/>
-      <itunes:title>The Sunday Read: ‘The For-Profit City That Might Come Crashing Down’</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed"/>
-      <itunes:duration>00:40:35</itunes:duration>
-      <itunes:summary>If Próspera were a normal town, Jorge Colindres, a freshly cologned and shaven lawyer, would be considered its mayor. His title here is “technical secretary.” Looking out over a clearing in the trees in February, he pointed to the small office complex where he works collecting taxes and managing public finances for the city’s 2,000 or so physical residents and e-residents, many of whom have paid a fee for the option of living in Próspera, on the Honduran island of Roatán, or remotely incorporating a business there.
-
-Nearby is a manufacturing plant that is slated to build modular houses along the coast. About a mile in the other direction are some of the city’s businesses: a Bitcoin cafe and education center, a genetics clinic, a scuba shop. A delivery service for food and medical supplies will deploy its drones from this rooftop.
-
-Próspera was built in a semiautonomous jurisdiction known as a ZEDE (a Spanish acronym for Zone for Employment and Economic Development). It is a private, for-profit city, with its own government that courts foreign investors through low taxes and light regulation. Now, the Honduran government wants it gone.</itunes:summary>
-      <itunes:subtitle>If Próspera were a normal town, Jorge Colindres, a freshly cologned and shaven lawyer, would be considered its mayor. His title here is “technical secretary.” Looking out over a clearing in the trees in February, he pointed to the small office complex where he works collecting taxes and managing public finances for the city’s 2,000 or so physical residents and e-residents, many of whom have paid a fee for the option of living in Próspera, on the Honduran island of Roatán, or remotely incorporating a business there.
-
-Nearby is a manufacturing plant that is slated to build modular houses along the coast. About a mile in the other direction are some of the city’s businesses: a Bitcoin cafe and education center, a genetics clinic, a scuba shop. A delivery service for food and medical supplies will deploy its drones from this rooftop.
-
-Próspera was built in a semiautonomous jurisdiction known as a ZEDE (a Spanish acronym for Zone for Employment and Economic Development). It is a private, for-profit city, with its own government that courts foreign investors through low taxes and light regulation. Now, the Honduran government wants it gone.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">30b54b4b-b127-486a-9c3f-1b7215e68950</guid>
       <title>'The Interview': Demi Moore Is Done With the Male Gaze</title>
-      <description><![CDATA[The actress discusses how her relationship to her body and fame has changed after decades in the public eye.
-]]></description>
       <pubDate>Sat, 14 Sep 2024 10:00:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/40165425-a851-4936-a72a-a32e82f160b0/14nyt-podcast-theinteview-youtube.jpg" width="1280"/>
-      <enclosure length="37234061" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/8dfbdeba-cbe5-478b-8aac-c1573c53cc8e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=8dfbdeba-cbe5-478b-8aac-c1573c53cc8e&amp;feed=54nAGcIl"/>
-      <itunes:title>'The Interview': Demi Moore Is Done With the Male Gaze</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/bbbe4976-f525-479a-afdb-db8585b4c0aa/3000x3000/14nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed"/>
-      <itunes:duration>00:38:47</itunes:duration>
-      <itunes:summary>The actress discusses how her relationship to her body and fame has changed after decades in the public eye.</itunes:summary>
-      <itunes:subtitle>The actress discusses how her relationship to her body and fame has changed after decades in the public eye.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">235dedac-4b65-4376-9174-4104a9bf39e1</guid>
       <title>The Story Behind ‘They’re Eating the Pets’</title>
-      <description><![CDATA[<p>At this week’s presidential debate, Donald J. Trump went into an unprompted digression about immigrants eating people’s pets. While the claims were debunked, the topic was left unexplained.</p><p>Miriam Jordan, who covers the impact of immigration policies for The Times, explains the story behind the shocking claims and the tragedy that gave rise to them.</p><p>Guest: <a href="https://www.nytimes.com/by/miriam-jordan">Miriam Jordan</a>, a national immigration correspondent for The New York Times.</p><p>Background reading: </p><ul><li><a href="https://www.nytimes.com/2024/09/09/us/politics/trump-vance-haitians-ohio.html">A local official said there was “absolutely no evidence”</a> for the outlandish claim about Haitian migrants that Mr. Trump and his campaign have amplified.</li><li>How an Ohio town<a href="https://www.nytimes.com/2024/09/03/us/springfield-ohio-school-bus-crash-haiti-immigrants.html"> landed in the middle of the immigration debate</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Fri, 13 Sep 2024 09:45:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/cdee19fa-356a-42eb-aa50-72f7fab87627/nyt-podcast-thedaily-ytthumbnail-ep1-3.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>At this week’s presidential debate, Donald J. Trump went into an unprompted digression about immigrants eating people’s pets. While the claims were debunked, the topic was left unexplained.</p><p>Miriam Jordan, who covers the impact of immigration policies for The Times, explains the story behind the shocking claims and the tragedy that gave rise to them.</p><p>Guest: <a href="https://www.nytimes.com/by/miriam-jordan">Miriam Jordan</a>, a national immigration correspondent for The New York Times.</p><p>Background reading: </p><ul><li><a href="https://www.nytimes.com/2024/09/09/us/politics/trump-vance-haitians-ohio.html">A local official said there was “absolutely no evidence”</a> for the outlandish claim about Haitian migrants that Mr. Trump and his campaign have amplified.</li><li>How an Ohio town<a href="https://www.nytimes.com/2024/09/03/us/springfield-ohio-school-bus-crash-haiti-immigrants.html"> landed in the middle of the immigration debate</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="29410298" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/4bd98376-6c7f-4bc8-a6cf-b035d1476f22/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=4bd98376-6c7f-4bc8-a6cf-b035d1476f22&amp;feed=54nAGcIl"/>
-      <itunes:title>The Story Behind ‘They’re Eating the Pets’</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/00256c4d-5c46-4fe5-b470-365c2847710d/3000x3000/nyt-podcast-theinteview-applespotify-4.jpg?aid=rss_feed"/>
-      <itunes:duration>00:30:38</itunes:duration>
-      <itunes:summary>At this week’s presidential debate, Donald J. Trump went into an unprompted digression about immigrants eating people’s pets. While the claims were debunked, the topic was left unexplained.
-
-Miriam Jordan, who covers the impact of immigration policies for The Times, explains the story behind the shocking claims and the tragedy that gave rise to them.
-
-Guest: Miriam Jordan, a national immigration correspondent for The New York Times.</itunes:summary>
-      <itunes:subtitle>At this week’s presidential debate, Donald J. Trump went into an unprompted digression about immigrants eating people’s pets. While the claims were debunked, the topic was left unexplained.
-
-Miriam Jordan, who covers the impact of immigration policies for The Times, explains the story behind the shocking claims and the tragedy that gave rise to them.
-
-Guest: Miriam Jordan, a national immigration correspondent for The New York Times.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">b203bdb1-fdad-497a-9a02-789fd2a29048</guid>
       <title>How the Election Is Sinking a $15 Billion Business Deal</title>
-      <description><![CDATA[<p>In a highly unusual move, the Biden administration signaled last week that it would block a Japanese company from buying an iconic American company in a critical swing state.</p><p>Alan Rappeport, who covers the Treasury Department for The Times, discusses the politics that could doom the multibillion-dollar deal, and what it says about the new power of American labor.</p><p>Guest: <a href="https://www.nytimes.com/by/alan-rappeport">Alan Rappeport</a>, an economic policy reporter for The New York Times.</p><p>Background reading: </p><ul><li>President Biden is expected to<a href="https://www.nytimes.com/2024/09/04/us/politics/biden-us-steel-nippon.html"> block Nippon Steel’s takeover of U.S. Steel</a>.</li><li>How swing-state politics are<a href="https://www.nytimes.com/2024/09/05/us/politics/us-steel-nippon-pennsylvania.html"> sinking a global steel deal</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Thu, 12 Sep 2024 09:45:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/8a9c6c75-acc1-45aa-86db-4444401fee2a/nyt-podcast-thedaily-ytthumbnail-ep1-2.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>In a highly unusual move, the Biden administration signaled last week that it would block a Japanese company from buying an iconic American company in a critical swing state.</p><p>Alan Rappeport, who covers the Treasury Department for The Times, discusses the politics that could doom the multibillion-dollar deal, and what it says about the new power of American labor.</p><p>Guest: <a href="https://www.nytimes.com/by/alan-rappeport">Alan Rappeport</a>, an economic policy reporter for The New York Times.</p><p>Background reading: </p><ul><li>President Biden is expected to<a href="https://www.nytimes.com/2024/09/04/us/politics/biden-us-steel-nippon.html"> block Nippon Steel’s takeover of U.S. Steel</a>.</li><li>How swing-state politics are<a href="https://www.nytimes.com/2024/09/05/us/politics/us-steel-nippon-pennsylvania.html"> sinking a global steel deal</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="19569848" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/14f4e7a3-4e78-4bc7-b981-c84e63d6b416/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=14f4e7a3-4e78-4bc7-b981-c84e63d6b416&amp;feed=54nAGcIl"/>
-      <itunes:title>How the Election Is Sinking a $15 Billion Business Deal</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/8c22d8a9-3338-45e4-a298-85bdc3858b51/3000x3000/nyt-podcast-theinteview-applespotify-3.jpg?aid=rss_feed"/>
-      <itunes:duration>00:20:23</itunes:duration>
-      <itunes:summary>In a highly unusual move, the Biden administration signaled last week that it would block a Japanese company from buying an iconic American company in a critical swing state. Alan Rappeport, who covers the Treasury Department for The Times, discusses the politics that could doom the multibillion-dollar deal, and what it says about the new power of American labor.
-</itunes:summary>
-      <itunes:subtitle>In a highly unusual move, the Biden administration signaled last week that it would block a Japanese company from buying an iconic American company in a critical swing state. Alan Rappeport, who covers the Treasury Department for The Times, discusses the politics that could doom the multibillion-dollar deal, and what it says about the new power of American labor.
-</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">1e97e214-c723-4fd5-8301-0aec1bd58bb1</guid>
       <title>Harris Baits Trump: Inside Their Fiery Debate</title>
-      <description><![CDATA[<p>In their first and possibly only presidential debate, Vice President Kamala Harris dominated and enraged former President Donald J. Trump.</p><p>Jonathan Swan, who covers politics and the Trump campaign for The Times, explains how a night that could have been about Ms. Harris’s record instead became about Mr. Trump’s temperament.</p><p>Guest: <a href="https://www.nytimes.com/by/jonathan-swan">Jonathan Swan</a>, a political correspondent for The New York Times.</p><p>Background reading: </p><ul><li>Read The Times’s live coverage of<a href="https://www.nytimes.com/live/2024/09/10/us/harris-trump-debate"> the debate as it happened</a>.</li><li>Who won? Here’s<a href="https://www.nytimes.com/2024/09/11/us/politics/trump-harris-debate-who-won.html"> a sampling of the reaction</a>.</li><li>And here’s<a href="https://www.nytimes.com/live/2024/09/10/us/debate-trump-harris-fact-check"> a fact-check on Mr. Trump and Ms. Harris</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Wed, 11 Sep 2024 10:02:28 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/1b28a6e8-b59f-4cbd-90c8-1e1a4cec8340/nyt-podcast-thedaily-ytthumbnail-6.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>In their first and possibly only presidential debate, Vice President Kamala Harris dominated and enraged former President Donald J. Trump.</p><p>Jonathan Swan, who covers politics and the Trump campaign for The Times, explains how a night that could have been about Ms. Harris’s record instead became about Mr. Trump’s temperament.</p><p>Guest: <a href="https://www.nytimes.com/by/jonathan-swan">Jonathan Swan</a>, a political correspondent for The New York Times.</p><p>Background reading: </p><ul><li>Read The Times’s live coverage of<a href="https://www.nytimes.com/live/2024/09/10/us/harris-trump-debate"> the debate as it happened</a>.</li><li>Who won? Here’s<a href="https://www.nytimes.com/2024/09/11/us/politics/trump-harris-debate-who-won.html"> a sampling of the reaction</a>.</li><li>And here’s<a href="https://www.nytimes.com/live/2024/09/10/us/debate-trump-harris-fact-check"> a fact-check on Mr. Trump and Ms. Harris</a>.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="35596912" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f6f5ee0b-5004-43fa-af5e-19a9e9b92b1f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=f6f5ee0b-5004-43fa-af5e-19a9e9b92b1f&amp;feed=54nAGcIl"/>
-      <itunes:title>Harris Baits Trump: Inside Their Fiery Debate</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/4287c850-0e4f-47d9-850d-36c62fea8e4b/3000x3000/nyt-podcast-thedaily-7.jpg?aid=rss_feed"/>
-      <itunes:duration>00:37:04</itunes:duration>
-      <itunes:summary>In their first and possibly only presidential debate, Vice President Kamala Harris dominated and enraged former President Donald J. Trump. Jonathan Swan, who covers politics and the Trump campaign for The Times, explains how a night that could have been about Ms. Harris’s record instead became about Mr. Trump’s temperament.
-</itunes:summary>
-      <itunes:subtitle>In their first and possibly only presidential debate, Vice President Kamala Harris dominated and enraged former President Donald J. Trump. Jonathan Swan, who covers politics and the Trump campaign for The Times, explains how a night that could have been about Ms. Harris’s record instead became about Mr. Trump’s temperament.
-</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">60a75b3d-3cc5-4d51-8aec-d435f9f1330e</guid>
       <title>Judge Delays Trump Sentencing Until After Election</title>
-      <description><![CDATA[<p>Last week, a judge in Manhattan announced that he was delaying the sentencing of Donald J. Trump until after the election. It is the only one of the four criminal cases against the former president that will have gone to trial before voters go to the polls.</p><p>Ben Protess, an investigative reporter for The New York Times, discusses Mr. Trump’s remarkable legal win and its limits.</p><p>Guest: <a href="https://www.nytimes.com/by/ben-protess">Ben Protess</a>, an investigative reporter for The New York Times.</p><p>Background reading: </p><ul><li>Judge Juan M. Merchan<a href="https://www.nytimes.com/2024/09/06/nyregion/trump-sentencing-delay-ruling.html"> delayed Trump’s sentencing until Nov. 26</a>, after Election Day.</li><li>Mr. Trump owes the delay in part to his legal resources and political status. It raised a question:<a href="https://www.nytimes.com/2024/09/08/nyregion/trump-election-felon-sentence-delay.html"> Is he above the law?</a></li></ul><p>For more information on today’s episode, visit  <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Tue, 10 Sep 2024 09:45:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/7eeed7b4-4284-4d9a-8a70-d7f473d7e7d7/nyt-podcast-thedaily-ytthumbnail-ep1-1.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>Last week, a judge in Manhattan announced that he was delaying the sentencing of Donald J. Trump until after the election. It is the only one of the four criminal cases against the former president that will have gone to trial before voters go to the polls.</p><p>Ben Protess, an investigative reporter for The New York Times, discusses Mr. Trump’s remarkable legal win and its limits.</p><p>Guest: <a href="https://www.nytimes.com/by/ben-protess">Ben Protess</a>, an investigative reporter for The New York Times.</p><p>Background reading: </p><ul><li>Judge Juan M. Merchan<a href="https://www.nytimes.com/2024/09/06/nyregion/trump-sentencing-delay-ruling.html"> delayed Trump’s sentencing until Nov. 26</a>, after Election Day.</li><li>Mr. Trump owes the delay in part to his legal resources and political status. It raised a question:<a href="https://www.nytimes.com/2024/09/08/nyregion/trump-election-felon-sentence-delay.html"> Is he above the law?</a></li></ul><p>For more information on today’s episode, visit  <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="19016471" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ec4f5552-86b7-44bf-b50f-a14c2240799a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=ec4f5552-86b7-44bf-b50f-a14c2240799a&amp;feed=54nAGcIl"/>
-      <itunes:title>Judge Delays Trump Sentencing Until After Election</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/d4dec56c-f72e-4663-848f-a4c5378116f5/3000x3000/nyt-podcast-theinteview-applespotify-2.jpg?aid=rss_feed"/>
-      <itunes:duration>00:19:48</itunes:duration>
-      <itunes:summary>Last week, a judge in Manhattan announced that he was delaying the sentencing of Donald J. Trump until after the election. It is the only one of the four criminal cases against the former president that will have gone to trial before voters go to the polls.
-Ben Protess, an investigative reporter for The New York Times, discusses Mr. Trump’s remarkable legal win and its limits.</itunes:summary>
-      <itunes:subtitle>Last week, a judge in Manhattan announced that he was delaying the sentencing of Donald J. Trump until after the election. It is the only one of the four criminal cases against the former president that will have gone to trial before voters go to the polls.
-Ben Protess, an investigative reporter for The New York Times, discusses Mr. Trump’s remarkable legal win and its limits.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">198137e3-40f9-4c85-83d0-cc0160b7db47</guid>
       <title>The Harris Honeymoon Is Over</title>
-      <description><![CDATA[<p>Is Kamala Harris’s surge beginning to ebb? That’s the question raised by the recent New York Times/Siena College poll, which finds Donald J. Trump narrowly ahead of Ms. Harris among likely voters nationwide.</p><p>Nate Cohn, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.</p><p>Guest: <a href="https://www.nytimes.com/by/nate-cohn">Nate Cohn</a>, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.</p><p>Background reading: </p><ul><li>Both candidates have scant opportunity to shift the electorate, but for Mr. Trump, opinions are largely fixed.<a href="https://www.nytimes.com/2024/09/08/us/politics/trump-and-harris-times-siena-poll.html"> Ms. Harris is still unknown to many.</a></li><li>How the fight to define Ms. Harris<a href="https://www.nytimes.com/2024/09/06/us/politics/harris-trump-debate.html"> will shape Tuesday’s presidential debate.</a></li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Mon, 9 Sep 2024 09:45:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/a26b2bc6-62c7-4871-83a2-e5d30777304b/nyt-podcast-thedaily-ytthumbnail-ep1.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>Is Kamala Harris’s surge beginning to ebb? That’s the question raised by the recent New York Times/Siena College poll, which finds Donald J. Trump narrowly ahead of Ms. Harris among likely voters nationwide.</p><p>Nate Cohn, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.</p><p>Guest: <a href="https://www.nytimes.com/by/nate-cohn">Nate Cohn</a>, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.</p><p>Background reading: </p><ul><li>Both candidates have scant opportunity to shift the electorate, but for Mr. Trump, opinions are largely fixed.<a href="https://www.nytimes.com/2024/09/08/us/politics/trump-and-harris-times-siena-poll.html"> Ms. Harris is still unknown to many.</a></li><li>How the fight to define Ms. Harris<a href="https://www.nytimes.com/2024/09/06/us/politics/harris-trump-debate.html"> will shape Tuesday’s presidential debate.</a></li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="23079033" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/37a9286f-49d5-400e-a7de-4593cae6649e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=37a9286f-49d5-400e-a7de-4593cae6649e&amp;feed=54nAGcIl"/>
-      <itunes:title>The Harris Honeymoon Is Over</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/d2b16cf9-9f6b-43ba-8238-a0270a74a4c9/3000x3000/nyt-podcast-thedaily-1.jpg?aid=rss_feed"/>
-      <itunes:duration>00:24:02</itunes:duration>
-      <itunes:summary>Is Kamala Harris’s surge beginning to ebb? That’s the question raised by the recent New York Times/Siena College poll, which finds Donald J. Trump narrowly ahead of Ms. Harris among likely voters nationwide.
-
-Nate Cohn, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.
-
-Guest: Nate Cohn, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.</itunes:summary>
-      <itunes:subtitle>Is Kamala Harris’s surge beginning to ebb? That’s the question raised by the recent New York Times/Siena College poll, which finds Donald J. Trump narrowly ahead of Ms. Harris among likely voters nationwide.
-
-Nate Cohn, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.
-
-Guest: Nate Cohn, who covers American politics, explains why some of Ms. Harris’s strengths from just a few weeks ago are now becoming her weaknesses, and the opening that’s creating for the former president.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">dd2a2fc2-7e1f-45de-80aa-f5ec7a81da14</guid>
       <title>'The Interview': Change Can Be Beautiful. Just Ask Will Ferrell and Harper Steele.</title>
-      <description><![CDATA[The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.
-]]></description>
       <pubDate>Sat, 7 Sep 2024 10:00:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/997bd5a9-09f8-40bf-abfd-b5464a00f9c5/15maginterview-ferrell-steele-youtube.jpg" width="1280"/>
-      <enclosure length="45042376" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/765c099f-dea0-40e5-8bf4-f49bc12ad59b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=765c099f-dea0-40e5-8bf4-f49bc12ad59b&amp;feed=54nAGcIl"/>
-      <itunes:title>'The Interview': Change Can Be Beautiful. Just Ask Will Ferrell and Harper Steele.</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/9c29a12f-bfb0-491f-9e1a-9f73ae2ce0ff/3000x3000/15maginterview-ferrell-steele-applespotify-sq.jpg?aid=rss_feed"/>
-      <itunes:duration>00:46:55</itunes:duration>
-      <itunes:summary>The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.</itunes:summary>
-      <itunes:subtitle>The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.</itunes:subtitle>
-      <itunes:explicit>true</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
     <item>
       <guid isPermaLink="false">b7d38868-43f5-419c-981f-5c1b50ce32e5</guid>
       <title>The First Post-Affirmative Action Class Enters College</title>
-      <description><![CDATA[<p>The Supreme Court’s decision to ban affirmative action last summer was expected to drastically change the demographics of college campuses around the country.</p><p>David Leonhardt, who has written about affirmative action for The Times, explains the extent and nature of that change as the new academic year gets underway.</p><p>Guest: <a href="https://www.nytimes.com/by/david-leonhardt">David Leonhardt</a>, a senior writer who runs<a href="https://www.nytimes.com/series/us-morning-briefing"> The Morning</a>, The Times’s flagship daily newsletter.</p><p>Background reading: </p><ul><li>Two elite colleges have seen<a href="https://www.nytimes.com/2024/08/30/us/black-enrollment-affirmative-action-amherst-tufts-uva.html"> shifts in racial makeup</a> after the affirmative action ban.</li><li>The Supreme Court decision last year<a href="https://www.nytimes.com/2023/06/29/us/politics/supreme-court-admissions-affirmative-action-harvard-unc.html"> rejected affirmative action</a> programs at Harvard and North Carolina.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></description>
       <pubDate>Fri, 6 Sep 2024 09:45:00 +0000</pubDate>
-      <author>thedaily@nytimes.com (The New York Times)</author>
-      <link>https://www.nytimes.com/the-daily</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/a247568a-f297-442f-a2e6-9de920f075c9/nyt-podcast-thedaily-ytthumbnail.jpg" width="1280"/>
-      <content:encoded><![CDATA[<p>The Supreme Court’s decision to ban affirmative action last summer was expected to drastically change the demographics of college campuses around the country.</p><p>David Leonhardt, who has written about affirmative action for The Times, explains the extent and nature of that change as the new academic year gets underway.</p><p>Guest: <a href="https://www.nytimes.com/by/david-leonhardt">David Leonhardt</a>, a senior writer who runs<a href="https://www.nytimes.com/series/us-morning-briefing"> The Morning</a>, The Times’s flagship daily newsletter.</p><p>Background reading: </p><ul><li>Two elite colleges have seen<a href="https://www.nytimes.com/2024/08/30/us/black-enrollment-affirmative-action-amherst-tufts-uva.html"> shifts in racial makeup</a> after the affirmative action ban.</li><li>The Supreme Court decision last year<a href="https://www.nytimes.com/2023/06/29/us/politics/supreme-court-admissions-affirmative-action-harvard-unc.html"> rejected affirmative action</a> programs at Harvard and North Carolina.</li></ul><p>For more information on today’s episode, visit <a href="http://nytimes.com/thedaily?smid=pc-thedaily">nytimes.com/thedaily</a>. Transcripts of each episode will be made available by the next workday.</p>
-]]></content:encoded>
-      <enclosure length="28842298" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/e70a86b8-265a-4ea3-a851-74fa75a4d002/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=e70a86b8-265a-4ea3-a851-74fa75a4d002&amp;feed=54nAGcIl"/>
-      <itunes:title>The First Post-Affirmative Action Class Enters College</itunes:title>
-      <itunes:author>The New York Times</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/c67d6c9f-cf8f-4d0a-99d5-ffd10e8cbd24/3000x3000/nyt-podcast-thedaily.jpg?aid=rss_feed"/>
-      <itunes:duration>00:30:02</itunes:duration>
-      <itunes:summary>The Supreme Court’s decision to ban affirmative action last summer was expected to drastically change the demographics of college campuses around the country.
-
-David Leonhardt, who has written about affirmative action for The Times, explains the extent and nature of that change as the new academic year gets underway.
-
-Guest: David Leonhardt, a senior writer who runs The Morning, The Times’s flagship daily newsletter.</itunes:summary>
-      <itunes:subtitle>The Supreme Court’s decision to ban affirmative action last summer was expected to drastically change the demographics of college campuses around the country.
-
-David Leonhardt, who has written about affirmative action for The Times, explains the extent and nature of that change as the new academic year gets underway.
-
-Guest: David Leonhardt, a senior writer who runs The Morning, The Times’s flagship daily newsletter.</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   </channel>
 </rss>

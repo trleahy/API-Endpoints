@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Test Feed 01</title>
+    <language>en</language>
+    <pubDate>Mon, 16 Sep 2024 09:45:00 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2024 09:45:31 +0000</lastBuildDate>
+
+    <item>
+      <guid isPermaLink="false">384cf0b9-5aaf-4f3e-b4d5-3a05fd8b5e7d</guid>
+      <title>Ticker Item 1</title>
+      <pubDate>Mon, 16 Sep 2024 09:45:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">c073d06f-d12f-4fd3-9fc1-930ccd27f01c</guid>
+      <title>Ticker Item 2</title>
+      <pubDate>Sun, 15 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">30b54b4b-b127-486a-9c3f-1b7215e68950</guid>
+      <title>Ticker Item 3</title>
+      <pubDate>Sat, 14 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">235dedac-4b65-4376-9174-4104a9bf39e1</guid>
+      <title>Ticker Item 4</title>
+      <pubDate>Fri, 13 Sep 2024 09:45:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">b203bdb1-fdad-497a-9a02-789fd2a29048</guid>
+      <title>Ticker Item 5</title>
+      <pubDate>Thu, 12 Sep 2024 09:45:00 +0000</pubDate>
+    </item>
+    
+  </channel>
+</rss>
