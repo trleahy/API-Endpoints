@@ -1,0 +1,20 @@
+{
+    "SkyNewsUK": {
+      "name": "Sky News",
+      "description": "Comcast's UK based news channel",
+      "country": "GB",
+      "url": "example.com"
+    },
+    "SkyNewsWeather": {
+      "name": "Sky News Weather",
+      "description": "Sky News weather loop",
+      "country": "GB",
+      "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+    },
+    "BBCNews" : {
+      "BBCNews": "BBC News",
+      "description": "British Broadcasting Corporation",
+      "country": "GB",
+      "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8"
+    }
+  }
