@@ -18,7 +18,7 @@
       "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8"
     },
     "CNNUS" : {
-      "name": "CNNUS",
+      "name": "CNN US [OFFLINE]",
       "description": "CNN US",
       "country": "US",
       "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
@@ -39,13 +39,13 @@
       "name": "CBS News",
       "description": "CBS News 24/7",
       "country": "US",
-      "url": "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/dd3b0a40-13bb-4bf1-8302-bedcbbebb2f3:GRQ/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3016996.m3u8"
+      "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_19.m3u8"
     },
     "ABCNewsLive" : {
       "name": "ABC News Live",
       "description": "The Disney group's streaming news channel",
       "country": "US",
-      "url": "https://content-aeui1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?pbs=74ef884652654234ab739ded11714373"
+      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
     },
     "AlJazeeraEnglish" : {
       "name": "Al Jazeera English",
